@@ -1,2 +1,6 @@
 Decide whch business to order from
-Decide which type of pizza to otder
+Decide which type of pizza to order
+Call restaurant
+Wait on pizza
+Give tip to taxi driver
+Eat the pizza
